@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://helloliyilin.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-07-05T12:01:35.631Z</updated>
+    <title>牛逼的小李李</title>
+    <updated>2020-07-05T12:56:04.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://helloliyilin.github.io"/>
     <link rel="self" href="https://helloliyilin.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://helloliyilin.github.io/images/avatar.png</logo>
     <icon>https://helloliyilin.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, 牛逼的小李李</rights>
     <entry>
         <title type="html"><![CDATA[七月的雨]]></title>
         <id>https://helloliyilin.github.io/post/qi-yue-de-yu/</id>
@@ -19,21 +19,5 @@
         <content type="html"><![CDATA[<h3>七月1号无雨</h3>
 <h3>七月2号有小雨</h3>
 <h3>七月3号无雨<h3>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[图片]]></title>
-        <id>https://helloliyilin.github.io/post/ni-hao-ya/</id>
-        <link href="https://helloliyilin.github.io/post/ni-hao-ya/">
-        </link>
-        <updated>2020-07-04T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="nihao">nihao</h1>
-<h2 id="nihao-2">nihao</h2>
-<h6 id="nihao-3">nihao</h6>
-<p><em><strong>nihao</strong></em><br>
-再见白白了您<br>
-<img src="https://helloliyilin.github.io/post-images/1593940088253.png" alt="" loading="lazy"></p>
-<figure data-type="image" tabindex="1"><img src="https://helloliyilin.github.io/post-images/1593941510785.jpg" alt="" loading="lazy"></figure>
-<h1 id="nihao-4">nihao</h1>
-]]></content>
     </entry>
 </feed>
