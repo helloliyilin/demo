@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://helloliyilin.github.io</id>
     <title>牛逼的小李李</title>
-    <updated>2020-07-05T13:04:53.848Z</updated>
+    <updated>2020-07-05T13:17:09.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://helloliyilin.github.io"/>
     <link rel="self" href="https://helloliyilin.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://helloliyilin.github.io/images/avatar.png</logo>
     <icon>https://helloliyilin.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 牛逼的小李李</rights>
+    <entry>
+        <title type="html"><![CDATA[haha😀]]></title>
+        <id>https://helloliyilin.github.io/post/haha/</id>
+        <link href="https://helloliyilin.github.io/post/haha/">
+        </link>
+        <updated>2020-07-05T13:14:41.000Z</updated>
+        <content type="html"><![CDATA[<p>一张图<br>
+<img src="https://helloliyilin.github.io/post-images/1593954889676.jpg" alt="" title="花" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[七月的雨]]></title>
         <id>https://helloliyilin.github.io/post/qi-yue-de-yu/</id>
@@ -19,5 +29,47 @@
         <content type="html"><![CDATA[<h3>七月1号无雨</h3>
 <h3>七月2号有小雨</h3>
 <h3>七月3号无雨<h3>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[图片]]></title>
+        <id>https://helloliyilin.github.io/post/ni-hao-ya/</id>
+        <link href="https://helloliyilin.github.io/post/ni-hao-ya/">
+        </link>
+        <updated>2020-07-04T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="尝试">尝试</h1>
+<p>第一次用GitHub和Gridea搭建个人博客，在Gridea编辑文章支持HTML和Markdowm。<br>
+现在记录Markdowm编辑。<br>
+Markdonwm的定义：它是一种轻量级标记语音，允许人们使用易读写的纯文本格式编写文档，然后转换成有效的XHTML或HTML文档。</p>
+<ul>
+<li>&quot;#+空格+内容&quot;一级标题。</li>
+<li>“##+空格+内容”二级标题。</li>
+<li>6#就是六级标题。</li>
+<li>“**加黑 **”</li>
+<li>“*斜体 *”<br>
+<code>123</code><br>
+123
+<table>
+<thead>
+<tr>
+<th>编号</th>
+<th style="text-align:left">姓名</th>
+<th style="text-align:right">年龄</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0</td>
+<td style="text-align:left">詹是</td>
+<td style="text-align:right">21</td>
+</tr>
+</tbody>
+</table>
+<ul class="contains-task-list">
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-926934"><label class="task-list-item-label" for="task-item-926934"> 洗碗</label></li>
+</ul>
+</li>
+</ul>
+<figure data-type="image" tabindex="1"><img src="https://helloliyilin.github.io/post-images/1593940088253.png" alt="" title="hello" loading="lazy"></figure>
+]]></content>
     </entry>
 </feed>
